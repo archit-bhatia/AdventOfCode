@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2358e7fb-0e91-4e47-9723-1f117edec1b9" name="Changes" comment="day7 part 2">
-      <change afterPath="$PROJECT_DIR$/2022/src/Day8/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/src/Day8/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022/src/Day8/input.txt" afterDir="false" />
+    <list default="true" id="2358e7fb-0e91-4e47-9723-1f117edec1b9" name="Changes" comment="day8 part 1">
+      <change afterPath="$PROJECT_DIR$/2022/src/Day25/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/src/Day25/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022/src/Day25/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,20 +37,21 @@
     "TF_FMT": "false",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "corretto-17",
-    "last_opened_file_path": "/Users/abhatia2/AdventOfCode/2022/src/Day8",
+    "last_opened_file_path": "/Users/abhatia2/AdventOfCode/2022/src/Day25",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2022/src/Day25" />
+      <recent name="$PROJECT_DIR$/2022/src" />
       <recent name="$PROJECT_DIR$/2022/src/Day8" />
       <recent name="$PROJECT_DIR$/2022/src/Day7" />
       <recent name="$PROJECT_DIR$/2022/src/Day6" />
-      <recent name="$PROJECT_DIR$/2022/src/Day5" />
-      <recent name="$PROJECT_DIR$/2022/src/Day4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2022/src/Day6" />
@@ -63,13 +64,13 @@
       <recent name="Day2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day8.A">
-    <configuration name="Day6.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day6.A" />
+  <component name="RunManager" selected="Application.A">
+    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day25.A" />
       <module name="AdventOfCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day6.*" />
+          <option name="PATTERN" value="Day25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.A" />
         <item itemvalue="Application.Day8.A" />
         <item itemvalue="Application.Day7.B" />
         <item itemvalue="Application.Day7.A" />
         <item itemvalue="Application.Day6.B" />
-        <item itemvalue="Application.Day6.A" />
       </list>
     </recent_temporary>
   </component>
@@ -147,7 +148,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669968751656</updated>
-      <workItem from="1669968752953" duration="46196000" />
+      <workItem from="1669968752953" duration="46837000" />
+      <workItem from="1671097739157" duration="17619000" />
+      <workItem from="1671438902111" duration="599000" />
+      <workItem from="1671689749507" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="boilerplate + day1">
       <created>1669982486051</created>
@@ -205,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670487262445</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day8 part 1">
+      <created>1670497957662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670497957662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +242,7 @@
     <MESSAGE value="day6" />
     <MESSAGE value="day7 part 1" />
     <MESSAGE value="day7 part 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="day7 part 2" />
+    <MESSAGE value="day8 part 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="day8 part 1" />
   </component>
 </project>
